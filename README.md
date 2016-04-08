@@ -10,6 +10,7 @@ The idea behind this board is that it would allow you to create a wearable that 
 * (3.0000, 2.0000) inches
 * (76.2000, 50.8000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
